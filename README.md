@@ -52,7 +52,7 @@ browse to the database folder founded in the cloned directory and import the .sq
 
 <h3>Set Up the Web Server</h3>
 
-Place the project files in your web server's root directory (e.g., /var/www/html for Apache).
+Place the project files in your web server's root directory (e.g., for apache use htdocs).
 
 <b>Access the Application<b>
 
@@ -74,14 +74,9 @@ Add Student: Go to add_student.php to add a new student.
 Edit Student: Click "Edit" next to a student's name in view_students.php to modify their record.
 Delete Student: Click "Delete" next to a student's name in view_students.php to remove their record.
 Log Out
-
 Click on the "Logout" link in the navigation bar to log out of the application.
-Error Handling
-Input Validation: Forms include validation for required fields and specific formats (e.g., email, phone number).
-Database Errors: Any errors encountered during database operations are displayed with a descriptive message.
-Contributing
-Feel free to submit issues or pull requests. Contributions to improve the system are welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
 
