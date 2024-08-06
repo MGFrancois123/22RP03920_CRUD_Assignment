@@ -42,9 +42,12 @@
 
 <h3>Installation</h3>
 <b>Clone the Repository</b>
+<ul>
+   <li>git clone https://github.com/MGFrancois123/22RP03920_CRUD_Assignment.git</li>
+    <li>cd 22RP03920_CRUD_Assignment.git </li>
 
-git clone https://github.com/MGFrancois123/22RP03920_CRUD_Assignment.git
-cd 22RP03920_CRUD_Assignment.git
+</ul>
+
 
 <h3>Configure Database</h3>
 
